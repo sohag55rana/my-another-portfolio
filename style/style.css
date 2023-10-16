@@ -213,3 +213,17 @@ footer{
 .social-link a{
     margin-right: 24px;
 }
+.footer-title {
+    text-align: left;
+    color:#181818;
+    font-size: 35px;
+    font-weight: 700;
+}
+.footer-description{
+    color: #757575;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+
+}
